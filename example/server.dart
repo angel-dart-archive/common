@@ -26,6 +26,7 @@ main() async {
     throw new AngelHttpException.NotFound();
   });
 
-  var server = await app.startServer();
+  var server =
+      await new DiagnosticsServer(app, new File('log.txt')).startServer();
   print('Listening on http://${server.address.address}:${server.port}');
 }

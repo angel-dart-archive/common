@@ -4,6 +4,7 @@ export 'package:angel_auth/angel_auth.dart';
 export 'package:angel_compress/angel_compress.dart';
 export 'package:angel_configuration/angel_configuration.dart';
 export 'package:angel_cors/angel_cors.dart';
+export 'package:angel_diagnostics/angel_diagnostics.dart';
 export 'package:angel_errors/angel_errors.dart';
 export 'package:angel_framework/angel_framework.dart';
 export 'package:angel_mongo/angel_mongo.dart';
