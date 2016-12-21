@@ -26,7 +26,7 @@ This package will also install the following, although it does not expose them:
 although it is not a plugin.
 
 ```dart
-import 'package:angel_common/angel_common';
+import 'package:angel_common/angel_common.dart';
 
 main() async {
     var app = new Angel();
