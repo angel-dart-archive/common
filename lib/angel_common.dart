@@ -11,3 +11,4 @@ export 'package:angel_mongo/angel_mongo.dart';
 export 'package:angel_mustache/angel_mustache.dart';
 export 'package:angel_proxy/angel_proxy.dart';
 export 'package:angel_static/angel_static.dart';
+export 'package:angel_validate/server.dart';

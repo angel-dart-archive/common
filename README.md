@@ -1,5 +1,5 @@
 # common
-[![version: v1.0.0-alpha](https://img.shields.io/badge/pub-v1.0.0--alpha-blue.svg)](https://pub.dartlang.org/packages/angel_common)
+[![version: v1.0.0-alpha+1](https://img.shields.io/badge/pub-v1.0.0--alpha+1-blue.svg)](https://pub.dartlang.org/packages/angel_common)
 
 Master package to install the current Angel framework. This package installs and
 exposes the Angel [*server framework*](https://github.com/angel-dart/framework), as well as the following plugins that
@@ -15,6 +15,7 @@ make up the rest of the Angel *application framework*:
 * [`mustache`](https://github.com/angel-dart/mustache)
 * [`proxy`](https://github.com/angel-dart/proxy)
 * [`static`](https://github.com/angel-dart/static)
+* [`validate/server.dart`](https://github.com/angel-dart/validate)
 
 This package will also install the following, although it does not expose them:
 
