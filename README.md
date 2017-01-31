@@ -1,5 +1,5 @@
 # common
-[![version: v1.0.0-alpha+1](https://img.shields.io/badge/pub-v1.0.0--alpha+1-blue.svg)](https://pub.dartlang.org/packages/angel_common)
+[![version: v1.0.0-beta](https://img.shields.io/badge/pub-v1.0.0--beta-blue.svg)](https://pub.dartlang.org/packages/angel_common)
 
 Master package to install the current Angel framework. This package installs and
 exposes the Angel [*server framework*](https://github.com/angel-dart/framework), as well as the following plugins that
