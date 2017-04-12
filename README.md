@@ -13,7 +13,7 @@ make up the rest of the Angel *application framework*:
 * [`auth`](https://github.com/angel-dart/auth)
 * [`compress`](https://github.com/angel-dart/compress)
 * [`configuration`](https://github.com/angel-dart/configuration)
-* [`diagnostics`](https://github.com/angel-dart/cors)
+* [`diagnostics`](https://github.com/angel-dart/diagnostics)
 * [`cors`](https://github.com/angel-dart/cors)
 * [`errors`](https://github.com/angel-dart/errors)
 * [`file_security`](https://github.com/angel-dart/file_security)
