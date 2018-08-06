@@ -1,3 +1,6 @@
+# DEPRECATED
+It is no longer practical to depend on a "god" package to import Angel; rather you can just import each component as needed.
+
 # common
 [![The Angel Framework](https://angel-dart.github.io/images/logo.png)](https://github.com/angel-dart/angel/wiki)
 
